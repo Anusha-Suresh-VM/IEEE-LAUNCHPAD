@@ -1,153 +1,60 @@
-# IEEE LAUNCHPAD Job Fair
+# IEEE LAUNCHPAD 
 
+# Anusha Suresh VM
 
+### About Me
 
+> Hi, I'm Anusha Suresh VM, a engineering graduate of Electronics and Communication Engineering from Government Engineering College Wayanad with a notable CGPA of 8.03. I embarked on a journey to merge my technical acumen with real-world challenges. Following my graduation in 2023, I delved into the dynamic realm of software development as an intern at Kodnest Technologies Pvt Ltd, Bangalore, honing my skills in Java, Spring Boot, Hibernate, JDBC, HTML, CSS, React JS, JavaScript, MySQL, and Python.My professional journey has been marked by hands-on experiences that have honed my problem-solving skills, active listening abilities, and adaptability. As a team player, I played a key role in developing the software component of projects like the Wildlife Monitoring System, which utilized Python-based deep learning algorithms alongside hardware integration for wildlife detection.
+Beyond internships, I've spearheaded innovative projects like TuneHub, an online music streaming platform, and Hungryfy, a full-stack web application for food ordering. These ventures showcase my proficiency in technologies including Java Spring Boot, Thymeleaf, HTML, CSS, JavaScript, React JS, Python, Django, MySQL, and Bootstrap.
+My commitment to excellence is underscored by certifications like the freeCodeCamp Responsive Web Design Developer Certification. Additionally, I've been recognized for my achievements, including qualification in top-tier hackathons such as .hack(); 2021 and YIP 2020, as well as being shortlisted in the Reboot Kerala Hackathon's top 15 teams.
 
 
+## Portfolio Highlights
 
+### My Projects
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+| Name                | Description                                                               |Repo Link           ||
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **TuneHub** | TuneHub is a online music streaming platform.The admin user can add songs and create playlists while the customer can explore songs .The users need to register, login and make payment to access functionalities.                                              | [Repo Link 1](https://github.com/Anusha-Suresh-VM/TuneHub-Application-full-stack-)                 |
+| **Hungryfy**  | Hungryfy is a full-stack web application that allows users to order food from restaurants.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/Hungryfy)             |
 
+#### Leadership and Influence:
 
+- My leadership and influence shine through in projects like the Wildlife Monitoring System, where I led the software development team, coordinating efforts and ensuring success. Additionally, projects like TuneHub and Hungryfy showcases my ability to develope web application.
 
+#### Networking:
 
+- My networking approach is rooted in building genuine connections through effective communication
 
+#### Career Plan:
 
+- Immediate Plan: As a fresher seeking a job in an IT company my immediate plan is to get a job in IT comapny then enhance my technical skills, network with industry professionals, gain practical experience 
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+- Longer-Term Plan: Establish incubators, enhance talent development, improve access to funding, and develop infrastructure.
 
-#
+To excel, Kerala can leverage its education, innovation, and quality of life to foster entrepreneurship and focus on high-growth sectors with emerging technologies.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- Kerala's tech ecosystem is rapidly evolving, fueled by a combination of factors such as a strong education system, a growing pool of tech talent, and government support for entrepreneurship and innovation. The state boasts a vibrant startup culture, with a burgeoning community of tech startups across various sectors including healthcare, agritech, and fintech.
+However, challenges such as limited access to funding, infrastructure gaps, and the need for a more robust support system for startups still exist
 
 
-<div align="center">
+#### Competitive Website Profiles:
 
+-  HackerRank:https://www.hackerrank.com/profile/anushasureshvm11
+-  Hackerearth:https://www.hackerearth.com/@anushasuresh
+-  Geeksforgeeks:https://www.geeksforgeeks.org/user/anushasur1sdc/
+-  Leetcode:https://leetcode.com/anushasureshvm/
 
 
 
-# How to Participate
 
-## Step 1:
 
 
 
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
 
 
 
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
 
-#
 
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
