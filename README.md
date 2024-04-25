@@ -70,6 +70,7 @@ Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHP
 #### 📄 Name Your File!
 
 Craft a new markdown file inside the /profile folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
+[Check profile](profiles/anushasureshvm@mulearn.md)
 
 #### ✍️ Fill It Out!
 
