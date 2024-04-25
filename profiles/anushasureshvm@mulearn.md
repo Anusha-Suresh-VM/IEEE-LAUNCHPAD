@@ -40,10 +40,11 @@ However, challenges such as limited access to funding, infrastructure gaps, and 
 
 #### Competitive Website Profiles:
 
--  HackerRank:https://www.hackerrank.com/profile/anushasureshvm11
--  Hackerearth:https://www.hackerearth.com/@anushasuresh
--  Geeksforgeeks:https://www.geeksforgeeks.org/user/anushasur1sdc/
--  Leetcode:https://leetcode.com/anushasureshvm/
+-  [HackerRank](https://www.hackerrank.com/profile/anushasureshvm11)
+-  [Hackerearth](https://www.hackerearth.com/@anushasuresh)
+-  [Geeksforgeeks](https://www.geeksforgeeks.org/user/anushasur1sdc/)
+-  [Leetcode](https://leetcode.com/anushasureshvm/)
+-  [LinkedIn](https://www.linkedin.com/in/anusha-suresh-vm-397283201/)
 
 
 
